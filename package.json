@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "code shool course",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LookOnTheBrightSide/codeSchoolExpress.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "beercan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LookOnTheBrightSide/codeSchoolExpress/issues"
+  },
+  "homepage": "https://github.com/LookOnTheBrightSide/codeSchoolExpress#readme"
+}
